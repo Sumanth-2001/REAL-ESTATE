@@ -1,0 +1,23 @@
+*{
+    background-color:  lightblue;
+    
+    background-repeat: no-repeat;
+}
+.header{
+    background-color: lightgoldenrodyellow;
+    image size: height: 1000 width: 1000;;
+    
+    color: crimson;
+    position: relative;
+    text-align: center;
+}
+.Header2{
+    color: black;
+}
+.body{
+    text-align: center;
+}
+.navbar{
+    background-color: tomato;
+
+}
